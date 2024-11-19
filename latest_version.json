@@ -1,29 +1,25 @@
 {
   "files": [
     {
-      "name": "image1.bin",
-      "url": "http://downloadtest-e7252eb6.azurewebsites.net/Files/koti3me.bin",
+      "name": "text1.txt",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text1.txt",
       "last_modified": "2024-11-19T14:00:00Z"
     },
     {
-      "name": "image2.bin",
-      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/koti3.bin",
+      "name": "text2.txt",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text2.txt",
       "last_modified": "2024-11-18T16:00:00Z"
     },
     {
-      "name": "image3.bin",
-      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/kotiya.bin",
+      "name": "text3.txt",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text3.txt",
       "last_modified": "2024-11-19T14:00:00Z"
     },
     {
-      "name": "image4.bin",
-      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/kurulla.bin",
-      "last_modified": "2024-11-19T14:00:00Z"
-    },
-    {
-      "name": "image5.bin",
-      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/samurai.bin",
+      "name": "text4.txt",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text4.txt",
       "last_modified": "2024-11-19T14:00:00Z"
     }
+   
   ]
 }
