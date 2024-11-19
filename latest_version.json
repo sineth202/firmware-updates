@@ -1,4 +1,29 @@
 {
-  "latest_version": "2.0",
-  "firmware_url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/test.ino.bin"
+  "files": [
+    {
+      "name": "image1.bin",
+      "url": "http://downloadtest-e7252eb6.azurewebsites.net/Files/koti3me.bin",
+      "last_modified": "2024-11-19T14:00:00Z"
+    },
+    {
+      "name": "image2.bin",
+      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/koti3.bin",
+      "last_modified": "2024-11-18T16:00:00Z"
+    },
+    {
+      "name": "image3.bin",
+      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/kotiya.bin",
+      "last_modified": "2024-11-19T14:00:00Z"
+    },
+    {
+      "name": "image4.bin",
+      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/kurulla.bin",
+      "last_modified": "2024-11-19T14:00:00Z"
+    },
+    {
+      "name": "image5.bin",
+      "url": "https://downloadtest-e7252eb6.azurewebsites.net/Files/samurai.bin",
+      "last_modified": "2024-11-19T14:00:00Z"
+    }
+  ]
 }
